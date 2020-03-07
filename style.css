@@ -88,6 +88,10 @@ header .menu{
 }
 
 .intro-info > p {
-    width: 70%;
+    width: 60%;
     color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
 }
