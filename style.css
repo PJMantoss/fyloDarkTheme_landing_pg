@@ -78,20 +78,20 @@ header .menu{
 }
 
 .intro-info > h1 {
-    width: 80%;
+    width: 65%;
     color: white;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
-    font-size: 45px;
+    font-size: 38px;
     text-align: center;
     margin: 35px 0;
 }
 
 .intro-info > p {
-    width: 45%;
+    width: 48%;
     color: white;
     font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 400;
     text-align: center;
     margin-bottom: 25px;
