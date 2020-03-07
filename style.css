@@ -55,3 +55,20 @@ header .menu{
     padding: 5px 20px;
     font-family: 'Raleway', sans-serif;
 }
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.intro > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.intro .intro-info {
+    
+}
