@@ -104,4 +104,5 @@ header .menu{
     border: none;
     background: hsl(198, 60%, 50%);
     color: hsl(0, 0%, 100%);
+    margin-bottom: 20px;
 }
