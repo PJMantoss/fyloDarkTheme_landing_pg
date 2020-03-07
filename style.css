@@ -86,3 +86,8 @@ header .menu{
     text-align: center;
     margin: 35px 0;
 }
+
+.intro-info > p {
+    width: 70%;
+    color: white;
+}
