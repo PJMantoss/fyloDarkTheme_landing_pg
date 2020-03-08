@@ -133,7 +133,7 @@ header .menu{
 }
 
 .service > img {
-    margin-bottom: 25px;
+    margin-bottom: 30px;
 }
 
 .service .service-info {
@@ -147,7 +147,7 @@ header .menu{
     font-family: 'Raleway', sans-serif;
     color: white;
     font-size: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .service-info > p {
