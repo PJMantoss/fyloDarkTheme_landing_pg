@@ -111,13 +111,13 @@ header .menu{
 
 .services {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    grid-gap: 25px;
-    width: 90%;
-    margin: auto;
-    align-self: center;
+    grid-template-columns: 50% 50%;
+    grid-gap: 20px;
+    width: 100%;
+    margin: 50px 100px;
+    position: center;
 }
 
 .services .service {
-    width: 60%;
+    width: 50%;
 }
