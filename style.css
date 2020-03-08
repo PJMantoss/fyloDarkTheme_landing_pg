@@ -117,7 +117,7 @@ header .menu{
     display: grid;
     grid-template-columns: 50% 50%;
     grid-template-rows: 200px 200px;
-    grid-gap: 10px 15px;
+    grid-gap: 50px 15px;
     width: 90%;
     margin: 50px auto;
 }
@@ -128,7 +128,8 @@ header .menu{
     justify-content: center;
     align-items: center;
     justify-self: center;
-    width: 50%;
+    width: 60%;
+    margin-bottom: 30px;
 }
 
 .service > img {
@@ -145,12 +146,13 @@ header .menu{
 .service-info > h3 {
     font-family: 'Raleway', sans-serif;
     color: white;
-    font-size: 16px;
+    font-size: 20px;
     margin-bottom: 20px;
 }
 
 .service-info > p {
     font-family: 'Open Sans', sans-serif;
     color: white;
-    font-size: ;
+    font-size: 14px;
+    text-align: center;
 }
