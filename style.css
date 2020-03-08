@@ -5,6 +5,11 @@
     padding: 0;
 }
 
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
 /*
 font-family: 'Raleway', sans-serif;
 font-family: 'Open Sans', sans-serif;
@@ -12,7 +17,6 @@ font-family: 'Open Sans', sans-serif;
 
 body {
     background: hsl(218, 28%, 13%);
-    box-sizing: border-box;
 }
 
 li {
