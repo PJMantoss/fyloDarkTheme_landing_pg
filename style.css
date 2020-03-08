@@ -132,7 +132,7 @@ header .menu{
 }
 
 .service > img {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .service .service-info {
@@ -140,4 +140,10 @@ header .menu{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.service-info > h3 {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    margin-bottom: 20px;
 }
