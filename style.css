@@ -108,3 +108,9 @@ header .menu{
     margin-bottom: 20px;
     padding: 5px;
 }
+
+.services {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
