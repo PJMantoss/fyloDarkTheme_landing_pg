@@ -112,12 +112,17 @@ header .menu{
 .services {
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-gap: 20px;
-    width: 100%;
-    margin: 50px 100px;
+    grid-template-rows: 200px 200px;
+    grid-gap: 10px 15px;
+    width: 90%;
+    margin: 50px auto;
     position: center;
 }
 
 .services .service {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     width: 50%;
 }
