@@ -110,7 +110,9 @@ header .menu{
 }
 
 .services {
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+}
+
+.services .service {
 }
