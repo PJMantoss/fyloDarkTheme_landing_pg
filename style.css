@@ -120,7 +120,6 @@ header .menu{
     grid-gap: 10px 15px;
     width: 90%;
     margin: 50px auto;
-    position: center;
 }
 
 .services .service {
@@ -128,5 +127,6 @@ header .menu{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    justify-self: center;
     width: 50%;
 }
