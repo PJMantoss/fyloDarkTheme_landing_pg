@@ -215,5 +215,11 @@ header .menu{
 }
 
 .see-how-link > img {
+    width: 12px;
+    padding: 3px;
+}
 
+.see-how > hr {
+    color: hsl(176, 68%, 64%);
+    width: 23%;
 }
