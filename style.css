@@ -171,3 +171,11 @@ header .menu{
     height: auto;
     width: 50%;
 }
+
+.stay-productive .productive {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
