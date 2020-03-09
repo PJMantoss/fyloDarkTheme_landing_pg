@@ -195,8 +195,14 @@ header .menu{
     margin-bottom: 15px;
 }
 
+.see-how {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
 .see-how .see-how-link {
-    display: inline-block;
+    display: flex;
     align-items: center;
 }
 
@@ -204,4 +210,5 @@ header .menu{
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     color: hsl(176, 68%, 64%);
+    padding-right: 2px;
 }
