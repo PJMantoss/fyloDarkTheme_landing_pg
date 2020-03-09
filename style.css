@@ -182,5 +182,7 @@ header .menu{
 .productive > h2 {
     font-family: 'Raleway', sans-serif;
     color: white;
-    font-size: 35px;
+    font-size: 32px;
+    width: 50%;
+    margin-bottom: 20px;
 }
