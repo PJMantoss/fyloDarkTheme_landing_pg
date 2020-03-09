@@ -194,3 +194,9 @@ header .menu{
     width: 77%;
     margin-bottom: 15px;
 }
+
+.see-how > a {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: hsl(176, 68%, 64%);
+}
