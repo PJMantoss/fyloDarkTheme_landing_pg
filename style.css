@@ -200,7 +200,7 @@ header .menu{
     align-items: center;
 }
 
-.see-how > a {
+.see-how-link > a {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     color: hsl(176, 68%, 64%);
