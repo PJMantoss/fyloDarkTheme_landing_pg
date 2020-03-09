@@ -186,3 +186,9 @@ header .menu{
     width: 50%;
     margin-bottom: 20px;
 }
+
+.productive > p {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 12px;
+}
