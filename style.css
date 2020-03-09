@@ -220,6 +220,6 @@ header .menu{
 }
 
 .see-how > hr {
-    color: hsl(176, 68%, 64%);
     width: 23%;
+    color: hsl(176, 68%, 64%);
 }
