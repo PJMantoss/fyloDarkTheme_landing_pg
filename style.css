@@ -162,12 +162,12 @@ header .menu{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 30px 0 50px 0;
 }
 
 .stay-productive > img {
     margin: 0 40px;
     display: block;
-    max-width: 100%;
     height: auto;
     width: 570px;
 }
