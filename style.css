@@ -204,7 +204,7 @@ header .menu{
 .see-how .see-how-link {
     display: flex;
     align-items: center;
-    margin-bottom: 3px;
+    margin-bottom: 1px;
 }
 
 .see-how-link > a {
@@ -220,6 +220,8 @@ header .menu{
 }
 
 .see-how > hr {
+    height: 1px;
     width: 23%;
-    color: hsl(176, 68%, 64%);
+    background: hsl(176, 68%, 64%);
+    border: none;
 }
