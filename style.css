@@ -157,3 +157,9 @@ header .menu{
     text-align: center;
     width: 90%;
 }
+
+.stay-productive {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
