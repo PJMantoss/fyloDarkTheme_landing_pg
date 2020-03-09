@@ -178,3 +178,9 @@ header .menu{
     justify-content: flex-start;
     width: 40%;
 }
+
+.productive > h2 {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 35px;
+}
