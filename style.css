@@ -195,6 +195,11 @@ header .menu{
     margin-bottom: 15px;
 }
 
+.see-how .see-how-link {
+    display: inline-block;
+    align-items: center;
+}
+
 .see-how > a {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
