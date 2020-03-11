@@ -225,3 +225,23 @@ header .menu{
     background: hsl(176, 68%, 64%);
     border: none;
 }
+
+.testimony {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 0;
+}
+
+.testimony > img {
+    position: absolute;
+    z-index: 1;
+}
+
+.testimony .cards-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+}
