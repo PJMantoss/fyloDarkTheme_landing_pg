@@ -227,11 +227,9 @@ header .menu{
 }
 
 .testimony {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     position: relative;
     z-index: 0;
+    margin: 150px auto;
 }
 
 .testimony > img {
@@ -243,5 +241,6 @@ header .menu{
     display: flex;
     justify-content: center;
     align-items: center;
+    position: absolute;
     z-index: 2;
 }
