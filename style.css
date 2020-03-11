@@ -230,6 +230,7 @@ header .menu{
     position: relative;
     z-index: 0;
     margin: 150px auto;
+    width: 90%;
 }
 
 .testimony > img {
