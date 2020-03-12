@@ -243,6 +243,7 @@ header .menu{
     justify-content: center;
     align-items: center;
     position: absolute;
+    margin-top: 22px;
     z-index: 2;
 }
 
