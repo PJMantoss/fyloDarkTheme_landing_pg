@@ -266,8 +266,10 @@ header .menu{
 }
 
 .card .card-info {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
     margin-left: 20px;
+}
+
+.card-info > img {
+    width: 20%;
+    border-radius: 50%;
 }
