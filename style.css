@@ -266,11 +266,12 @@ header .menu{
 }
 
 .card .card-info {
-    display: inline;
+    display: flex;
     margin-left: 20px;
 }
 
 .card-info > img {
-    width: 20%;
+    width: 10%;
     border-radius: 50%;
+    padding: 10px;
 }
