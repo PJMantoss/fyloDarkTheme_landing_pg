@@ -277,4 +277,9 @@ header .menu{
     padding: 10px;
 }
 
-.card-info .staff {}
+.staff > h4 {
+    font-family: 'Open Sans', sans-serif;
+    color: hsl(0, 0%, 100%);
+    font-size: 12px;
+    margin-bottom: 3px;
+}
