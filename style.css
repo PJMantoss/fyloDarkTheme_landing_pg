@@ -281,5 +281,10 @@ header .menu{
     font-family: 'Open Sans', sans-serif;
     color: hsl(0, 0%, 100%);
     font-size: 12px;
-    margin-bottom: 3px;
+}
+
+.staff > span {
+    font-family: 'Open Sans', sans-serif;
+    color: hsl(0, 0%, 100%);
+    font-size: 10px;
 }
