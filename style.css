@@ -245,3 +245,9 @@ header .menu{
     position: absolute;
     z-index: 2;
 }
+
+.cards-div .card {
+    display: flex;
+    flex-direction: column;
+    background: hsl(219, 30%, 18%);
+}
