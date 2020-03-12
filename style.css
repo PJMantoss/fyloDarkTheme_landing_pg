@@ -267,6 +267,7 @@ header .menu{
 
 .card .card-info {
     display: flex;
+    align-items: center;
     margin-left: 20px;
 }
 
@@ -275,3 +276,5 @@ header .menu{
     border-radius: 50%;
     padding: 10px;
 }
+
+.card-info .staff {}
