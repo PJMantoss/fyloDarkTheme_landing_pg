@@ -235,6 +235,7 @@ header .menu{
 
 .testimony > img {
     position: absolute;
+    margin-left: 12px;
     z-index: 1;
 }
 
@@ -243,7 +244,7 @@ header .menu{
     justify-content: center;
     align-items: center;
     position: absolute;
-    margin-top: 22px;
+    margin-top: 25px;
     z-index: 2;
 }
 
