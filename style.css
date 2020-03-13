@@ -293,7 +293,11 @@ header .menu{
 }
 
 .get-access {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     position: relative;
     z-index: 0;
-    top: 300px;
+    top: 400px;
 }
