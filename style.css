@@ -319,3 +319,9 @@ header .menu{
     color: hsl(0, 0%, 100%);
     margin-bottom: 20px;
 }
+
+.access-txt > p {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 12px;
+}
