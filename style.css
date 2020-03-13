@@ -324,4 +324,13 @@ header .menu{
     font-family: 'Open Sans', sans-serif;
     color: white;
     font-size: 12px;
+    font-weight: 400;
+    width: 90%;
+}
+
+.email-signup #txt-field {
+    width: 400px;
+    margin-right: 10px;
+    border: none;
+    
 }
