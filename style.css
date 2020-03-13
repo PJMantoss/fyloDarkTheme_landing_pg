@@ -291,3 +291,9 @@ header .menu{
     color: hsl(0, 0%, 100%);
     font-size: 10px;
 }
+
+.get-access {
+    position: relative;
+    z-index: 0;
+    top: 300px;
+}
