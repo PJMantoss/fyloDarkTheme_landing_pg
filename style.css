@@ -301,6 +301,7 @@ header .menu{
     z-index: 0;
     top: 350px;
     width: 70%;
+    height: auto;
     background: hsl(217, 28%, 15%);
     border-radius: 5px;
     margin: 0 auto 50px auto;
