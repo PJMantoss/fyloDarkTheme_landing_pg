@@ -305,7 +305,7 @@ header .menu{
     background: hsl(217, 28%, 15%);
     border-radius: 5px;
     margin: 0 auto 50px auto;
-    box-shadow: 2px 2px 0px 0px rgb(24, 24, 24);
+    box-shadow: 3px 3px 0px 0px rgb(43, 42, 42);
 }
 
 .get-access .access-txt {
@@ -356,3 +356,4 @@ header .menu{
     color: hsl(0, 0%, 100%);
     font-weight: 550;
 }
+
