@@ -357,3 +357,7 @@ header .menu{
     font-weight: 550;
 }
 
+footer {
+    display: flex;
+    position: relative;
+}
