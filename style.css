@@ -229,7 +229,7 @@ header .menu{
 .testimony {
     position: relative;
     z-index: 0;
-    margin: 150px auto;
+    margin: 150px auto 200px auto;
     width: 90%;
 }
 
@@ -305,7 +305,7 @@ header .menu{
     background: hsl(217, 28%, 15%);
     border-radius: 5px;
     margin: 0 auto 50px auto;
-    box-shadow: 3px 3px 0px 0px rgb(15, 15, 15);
+    box-shadow: 3px 3px 5px 0px rgb(15, 15, 15);
 }
 
 .get-access .access-txt {
