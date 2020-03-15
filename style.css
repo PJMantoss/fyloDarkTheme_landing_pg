@@ -352,4 +352,5 @@ header .menu{
     height: 37px;
     background: hsl(198, 60%, 50%);
     color: hsl(0, 0%, 100%);
+    font-weight: 550;
 }
