@@ -309,7 +309,7 @@ header .menu{
 
 .get-access .access-txt {
     text-align: center;
-    width: 65%;
+    width: 75%;
     margin: 40px 0 30px 0;
 }
 
@@ -331,12 +331,13 @@ header .menu{
 .email-signup {
     display: flex;
     justify-content: flex-start;
-    margin-right: 60px;
+    margin-right: 50px;
     margin-bottom: 30px;
+    margin-left: 30px;
 }
 
 .email-signup #txt-field {
-    width: 360px;
+    width: 340px;
     margin-right: 20px;
     border: none;
     border-radius: 30px;
