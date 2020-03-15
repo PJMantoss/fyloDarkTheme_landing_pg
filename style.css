@@ -328,6 +328,12 @@ header .menu{
     width: 90%;
 }
 
+.email-signup {
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 80px;
+}
+
 .email-signup #txt-field {
     width: 400px;
     margin-right: 15px;
