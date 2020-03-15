@@ -336,3 +336,11 @@ header .menu{
     padding: 10px;
     height: 20px;
 }
+
+.email-signup #submit {
+    width: 200px;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    height: 35px;
+}
