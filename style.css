@@ -336,7 +336,7 @@ header .menu{
 }
 
 .email-signup #txt-field {
-    width: 400px;
+    width: 360px;
     margin-right: 20px;
     border: none;
     border-radius: 30px;
@@ -345,9 +345,11 @@ header .menu{
 }
 
 .email-signup #submit {
-    width: 180px;
+    width: 177px;
     border: none;
     border-radius: 20px;
     padding: 12px;
     height: 37px;
+    background: hsl(198, 60%, 50%);
+    color: hsl(0, 0%, 100%);
 }
