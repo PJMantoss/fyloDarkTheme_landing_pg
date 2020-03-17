@@ -368,4 +368,8 @@ footer {
     margin-top: 250px;
 }
 
-footer {}
+footer #logo-footer {
+    margin-top: 170px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
