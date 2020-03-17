@@ -389,4 +389,8 @@ footer .location {
     font-size: 14px;
 }
 
-.location > img {}
+.location > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
