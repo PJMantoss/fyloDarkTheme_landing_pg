@@ -431,10 +431,7 @@ footer .footer-info {
 }
 
 .footer-links .s-media {
-    display: flex;
-    justify-content: center;
-    align-items: initial;
-    margin-left: 20px;
+    margin: 0 0 0 100px;
 }
 
 .s-media > img {
