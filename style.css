@@ -377,7 +377,7 @@ footer .footer-info {
     margin-left: 150px;
 }
 
-footer .location {
+.footer-info .location {
     display: inline-flex;
     width: 30%;
 }
@@ -392,4 +392,9 @@ footer .location {
     font-family: 'Raleway', sans-serif;
     font-size: 14px;
     margin-left: 15px;
+}
+
+.footer-info .contact-info {
+    margin-left: 20px;
+    margin-right: 30px;
 }
