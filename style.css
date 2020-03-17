@@ -402,5 +402,10 @@ footer .footer-info {
 .contact-info .contact {
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+.contact > img {
+    width: 15px;
+    margin-right: 20px;
 }
