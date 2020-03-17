@@ -398,3 +398,9 @@ footer .footer-info {
     margin-left: 20px;
     margin-right: 30px;
 }
+
+.contact-info .contact {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
