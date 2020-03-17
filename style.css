@@ -409,3 +409,9 @@ footer .footer-info {
     width: 15px;
     margin-right: 20px;
 }
+
+.contact > p {
+    color: hsl(0, 0%, 100%);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+}
