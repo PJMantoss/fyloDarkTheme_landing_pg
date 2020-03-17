@@ -369,7 +369,10 @@ footer {
 }
 
 footer #logo-footer {
-    margin-top: 170px;
+    margin: 170px 0 20px 150px;
+}
+
+footer .footer-info {
+    display: flex;
     margin-left: 150px;
-    margin-bottom: 20px;
 }
