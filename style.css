@@ -396,7 +396,7 @@ footer .footer-info {
 
 .footer-info .contact-info {
     margin-left: 30px;
-    margin-right: 140px;
+    margin-right: 120px;
 }
 
 .contact-info .contact {
@@ -418,4 +418,25 @@ footer .footer-info {
 
 .footer-info .footer-links {
     margin-right: 70px;
+}
+
+.footer-links > ul > li {
+    margin-bottom: 15px;
+}
+
+.footer-links > ul > li > a{
+    color: hsl(0, 0%, 100%);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+.footer-links .s-media {
+    display: flex;
+    justify-content: center;
+    align-items: initial;
+    margin-left: 20px;
+}
+
+.s-media > img {
+    width: 26px;
 }
