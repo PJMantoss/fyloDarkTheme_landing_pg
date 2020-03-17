@@ -395,8 +395,8 @@ footer .footer-info {
 }
 
 .footer-info .contact-info {
-    margin-left: 20px;
-    margin-right: 30px;
+    margin-left: 30px;
+    margin-right: 140px;
 }
 
 .contact-info .contact {
@@ -414,4 +414,8 @@ footer .footer-info {
     color: hsl(0, 0%, 100%);
     font-family: 'Open Sans', sans-serif;
     font-size: 12px;
+}
+
+.footer-info .footer-links {
+    margin-right: 70px;
 }
