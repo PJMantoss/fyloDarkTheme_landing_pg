@@ -211,13 +211,6 @@ header .menu{
     margin: 100px 0 50px 0;
 }
 
-@media (max-width: 800px){
-    .stay-productive {
-        flex-direction: column;
-        margin: 50px 0 40px 0;
-    }
-}
-
 .stay-productive > img {
     margin: 0 40px;
     display: block;
@@ -246,6 +239,34 @@ header .menu{
     font-size: 12px;
     width: 77%;
     margin-bottom: 15px;
+}
+
+@media (max-width: 800px){
+    .stay-productive {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; 
+        margin: 50px auto 40px auto;
+    }
+
+    .stay-productive > img {
+        width: 80%;
+    }
+
+    .stay-productive .productive {
+        width: 95%;
+        margin-top: 80px;
+    }
+
+    .productive > h2 {
+        width: 100%;
+        font-size: 22px;
+    }
+
+    .productive > p {
+        width: 80%;
+        font-size: 16px;
+    }
 }
 
 .see-how {
