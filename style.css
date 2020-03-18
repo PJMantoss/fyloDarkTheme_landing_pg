@@ -186,11 +186,11 @@ header .menu{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        margin-bottom: 20px;
+        margin-bottom: 100px;
     }
 
     .services .service {
-        width: 72%;
+        width: 75%;
         margin-bottom: 100px;
     }
 
@@ -200,7 +200,7 @@ header .menu{
 
     .service-info > p {
         font-size: 14px;
-        width: 95%;
+        width: 100%;
     }
 }
 
@@ -209,6 +209,13 @@ header .menu{
     justify-content: center;
     align-items: center;
     margin: 100px 0 50px 0;
+}
+
+@media (max-width: 800px){
+    .stay-productive {
+        flex-direction: column;
+        margin: 50px 0 40px 0;
+    }
 }
 
 .stay-productive > img {
