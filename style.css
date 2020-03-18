@@ -180,6 +180,30 @@ header .menu{
     width: 90%;
 }
 
+@media (max-width: 900px){
+    .services {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+
+    .services .service {
+        width: 72%;
+        margin-bottom: 100px;
+    }
+
+    .service-info > h3 {
+        font-size: 18px;
+    }
+
+    .service-info > p {
+        font-size: 14px;
+        width: 95%;
+    }
+}
+
 .stay-productive {
     display: flex;
     justify-content: center;
