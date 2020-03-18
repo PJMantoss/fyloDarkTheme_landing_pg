@@ -36,16 +36,13 @@ header {
     padding: 20px 0;
 }
 
-header .logo {
-
-}
-
 header .menu{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     margin-top: 40px;
+    padding: 20px 6vw
 }
 
 .menu > li {
