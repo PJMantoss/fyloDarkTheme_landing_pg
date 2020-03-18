@@ -35,7 +35,6 @@ header {
     align-items: center;
     margin-top: 40px;
     padding: 20px 6vw;
-    padding: 20px 6vw;
 }
 
 header .menu{
@@ -45,6 +44,17 @@ header .menu{
 .menu > li {
     padding: 5px 20px;
     font-family: 'Raleway', sans-serif;
+}
+
+@media (max-width: 770px){
+    header {
+        padding: 5px 0;
+    }
+
+    .logo > img {
+        width: 90px;
+        margin: 10px 0 0 15px;
+    }
 }
 
 .intro {
