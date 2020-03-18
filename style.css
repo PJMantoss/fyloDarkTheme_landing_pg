@@ -37,22 +37,11 @@ header {
 }
 
 header .logo {
-    display: flex;
-    justify-content: center;
-    width: 40vw;
-    margin-top: 50px;
-    margin-right: 90px;
-    padding-right: 20px;
+
 }
 
 header .menu{
     display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    margin-top: 50px;
-    margin-left: 90px;
-    width: 30vw;
-    padding-left: 20px;
 }
 
 .menu > li {
