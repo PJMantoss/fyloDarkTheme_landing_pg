@@ -71,6 +71,12 @@ header .menu{
     height: auto;
 }
 
+@media (max-width: 770px){
+    .intro > img {
+        width: 80%;
+    }
+}
+
 .intro .intro-info {
     display: flex;
     flex-direction: column;
