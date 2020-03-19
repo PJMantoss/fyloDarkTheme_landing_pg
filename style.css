@@ -326,6 +326,7 @@ header .menu{
     .testimony {
         display: flex;
         flex-direction: column;
+        margin-bottom: 400px;
     }
 
     .testimony .cards-div {
