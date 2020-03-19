@@ -507,11 +507,11 @@ footer #logo-footer {
 
 @media(max-width: 900px){ 
     footer {
-        margin-top: 280px;
+        margin-top: 290px;
         height: auto;
     }
     footer #logo-footer{
-        margin: 330px 0 30px 50px
+        margin: 300px 0 30px 50px
     }
 }
 
