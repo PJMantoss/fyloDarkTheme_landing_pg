@@ -560,16 +560,20 @@ footer .footer-info {
     margin-right: 120px;
 }
 
-@media(max-width: 900px){
-    .footer-info .contact-info {
-        margin: 0 0 50px 0;
-    }
-}
-
 .contact-info .contact {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
+}
+
+@media(max-width: 900px){
+    .footer-info .contact-info {
+        margin: 0 0 60px 0;
+    }
+
+    .contact-info .contact {
+        margin-bottom: 25px;
+    }
 }
 
 .contact > img {
