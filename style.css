@@ -523,6 +523,7 @@ footer .footer-info {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        margin-left: 20px;
     }
 }
 
@@ -541,6 +542,18 @@ footer .footer-info {
     font-family: 'Raleway', sans-serif;
     font-size: 14px;
     margin-left: 15px;
+}
+
+@media(max-width: 900px){
+    .footer-info .location {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+
+    .location > p {
+        width: 70%;
+        font-size: 16px;
+    }
 }
 
 .footer-info .contact-info {
