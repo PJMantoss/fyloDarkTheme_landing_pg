@@ -617,15 +617,15 @@ footer .footer-info {
 }
 
 .s-media > img {
-    width: 32px;
+    width: 45px;
 }
 
 @media(max-width: 900px){
     .footer-info .s-media {
-        justify-self: center;
+        margin: 0 0 0 130px;
     }
 
     .s-media > img {
-        width: 42px;
+        width: 40px;
     }
 }
