@@ -322,6 +322,19 @@ header .menu{
     z-index: 2;
 }
 
+@media (max-width: 800px){
+    .testimony {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .testimony .cards-div {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
 .cards-div .card {
     display: flex;
     flex-direction: column;
@@ -401,6 +414,21 @@ header .menu{
     font-size: 12px;
     font-weight: 400;
     width: 90%;
+}
+
+@media (max-width: 900px){
+    .get-access {
+        width: 90%;
+        top: 500px;
+    }
+
+    .access-txt > h2 {
+        text-align: center;
+    }
+
+    .access-txt > p {
+        font-size: 15px;
+    }
 }
 
 .email-signup {
