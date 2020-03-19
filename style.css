@@ -246,7 +246,7 @@ header .menu{
         flex-direction: column;
         justify-content: center;
         align-items: center; 
-        margin: 50px auto 40px auto;
+        margin: 50px 0 40px 40px;
     }
 
     .stay-productive > img {
@@ -264,7 +264,7 @@ header .menu{
     }
 
     .productive > p {
-        width: 80%;
+        width: 90%;
         font-size: 16px;
     }
 }
