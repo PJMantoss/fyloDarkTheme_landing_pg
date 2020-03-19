@@ -504,6 +504,17 @@ footer #logo-footer {
     margin: 170px 0 20px 150px;
 }
 
+
+@media(max-width: 900px){ 
+    footer {
+        margin-top: 280px;
+        height: auto;
+    }
+    footer #logo-footer{
+        margin: 330px 0 30px 50px
+    }
+}
+
 footer .footer-info {
     display: flex;
     margin-left: 150px;
