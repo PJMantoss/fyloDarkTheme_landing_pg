@@ -1,4 +1,4 @@
-A mobile responsive landing page with HTML and CSS. It uses a lot of Flex Box in the styling.
+A mobile responsive landing page with HTML and CSS.
 
 Developer: PJ Mantoss
 
